@@ -1,0 +1,45 @@
+Nastêpny krok: 
+
+Wzór ogólny : 
+T(d,a,l,N,u)=(a*8*3.14**2*l**2)/(d**2*N**2*u**2)
+
+Nastêpny krok: 
+
+T(d,a,l,N,u)=(a*8*3.14**2*l**2)/(d**2*N**2*u**2)=78.8768*a*l**2/(N**2*d**2*u**2)
+
+Nastêpny krok: 
+
+sqrt((dT(d,a,l,N,u)/dd)^2 * u^2(d))
+
+Nastêpny krok: 
+
+sqrt((d (78.8768*a*l**2/(N**2*d**2*u**2)) /dd)^2 * u^2(d))
+
+Nastêpny krok: 
+
+sqrt(((-157.7536*a*l**2/(N**2*d**3*u**2))^2 * (d)^2))
+
+Nastêpny krok: 
+
+sqrt((-157.7536*23.104*0.475**2/(510**2*0.083**3*(1.256*10**(-6))**2))^2 * (0.00001)^2)
+
+Nastêpny krok: 
+
+sqrt((-3505094778012.52)^2 * (0.00001)^2)
+
+Nastêpny krok: 
+
+sqrt( 1.22856894028506e+25*1.00000000000000e-10 )
+
+Nastêpny krok: 
+
+sqrt( 1.22856894028506e+15+)
+
+Nastêpny krok: 
+
+sqrt(1.22856894028506e+15)
+
+Nastêpny krok: 
+
+35050947.7801251
+
